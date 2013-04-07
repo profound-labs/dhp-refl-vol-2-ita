@@ -1,0 +1,5 @@
+*.swp
+*.aux
+*.log
+book_main.pdf
+pdf-keep/proofing/
