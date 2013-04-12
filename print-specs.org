@@ -7,7 +7,7 @@
 | Author:              | Ajahn Munindo                 |
 | Page width:          | 135mm                         |
 | Page height:         | 120mm                         |
-| Spine width:         | n/a                           |
+| Spine width:         | 7.466mm                       |
 | Mainmatter:          | 122 pages                     |
 | Mainmatter material: | cream 70gsm                   |
 | Cover material:      | 300gsm 2 side coated art card |
